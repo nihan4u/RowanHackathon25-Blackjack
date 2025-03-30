@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+venv
+
+# Python cache/compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Optional: Large model file (if >100MB, consider Git LFS or not committing)
+# card_model.pt
+
+# Optional: macOS specific
+.DS_Store
+
